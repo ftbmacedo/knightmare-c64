@@ -42,6 +42,20 @@ Compatibility with PAL systems has not yet been verified.
 
 - **Fausto Macedo** — Project concept, coordination, testing, validation, and development direction.
 
+- ## Screenshots
+
+### Title Screen
+![Knightmare C64 Title Screen](screenshots/title.png)
+
+### Gameplay
+![Knightmare C64 Gameplay](screenshots/gameplay.png)
+
+### River Bridge
+![Knightmare C64 River Bridge](screenshots/bridge.png)
+
+### Stage 1 Boss
+![Knightmare C64 Stage 1 Boss](screenshots/stage1-boss.png)
+
 Independent, unofficial, non-commercial fan project.
 
 MMBasic recreation for the Colour Maximite 2:
