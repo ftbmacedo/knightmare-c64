@@ -60,6 +60,3 @@ MMBasic recreation for the Colour Maximite 2:
 
 ### Stage 1 Boss
 ![Knightmare C64 Stage 1 Boss](screenshots/stage1-boss.png)
-
-MMBasic recreation for the Colour Maximite 2:
-[https://github.com/leonicolas/knightmare-cmm2](https://github.com/leonicolas/knightmare-cmm2)
