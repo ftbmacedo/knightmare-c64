@@ -46,3 +46,17 @@ Projeto independente, não oficial e sem fins comerciais.
 
 Recriação em MMBasic para Colour Maximite 2:
 [https://github.com/leonicolas/knightmare-cmm2](https://github.com/leonicolas/knightmare-cmm2)
+
+## Capturas de tela
+
+### Tela de título
+![Tela de título do Knightmare C64](screenshots/title.png)
+
+### Jogabilidade
+![Knightmare C64 em execução](screenshots/gameplay.png)
+
+### Ponte sobre o rio
+![Ponte da primeira fase](screenshots/bridge.png)
+
+### Chefe da primeira fase
+![Chefe da primeira fase do Knightmare C64](screenshots/stage1-boss.png)
