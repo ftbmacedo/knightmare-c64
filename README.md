@@ -44,6 +44,9 @@ Compatibility with PAL systems has not yet been verified.
 
 Independent, unofficial, non-commercial fan project.
 
+MMBasic recreation for the Colour Maximite 2:
+[https://github.com/leonicolas/knightmare-cmm2](https://github.com/leonicolas/knightmare-cmm2)
+
 ## Screenshots
 
 ### Title Screen
