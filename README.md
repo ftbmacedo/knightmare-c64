@@ -14,7 +14,7 @@ Development began with an initial Commodore 64 adaptation created with the assis
 
 The project then went through an extensive process of development and refinement with the help of ChatGPT, developed by OpenAI. Using the original MSX ROM and its Z80 disassembly as the primary references, countless corrections, reimplementations, graphical improvements, music and sound effect adaptations, as well as extensive testing and comparisons with the original game, were carried out. The goal has always been to achieve the highest possible level of fidelity while respecting the capabilities and limitations of the Commodore 64 hardware.
 
-The result of this effort is the first public release of Knightmare for the Commodore 64 NTSC. The first stage is fully completed and playable, while the remaining stages are still under development.
+The project has now reached version 0.2.0 of Knightmare for the Commodore 64 NTSC. Stages 1 and 2 are fully completed and playable, while stages 3 through 8 remain under development.
 
 The project continues to evolve. My intention is to gradually implement the remaining stages until Knightmare can be played from beginning to end on the Commodore 64, staying as faithful as possible to the original experience.
 
@@ -60,3 +60,19 @@ MMBasic recreation for the Colour Maximite 2:
 
 ### Stage 1 Boss
 ![Knightmare C64 Stage 1 Boss](screenshots/stage1-boss.png)
+
+**Stage 2 — Gameplay**
+
+![Stage 2 Gameplay](screenshots/stage2_gameplay.png)
+
+**Stage 2 — Robots**
+
+![Stage 2 Robots](screenshots/stage2_robots.png)
+
+**Stage 2 — Skeletons**
+
+![Stage 2 Skeletons](screenshots/stage2_skeletons.png)
+
+**Stage 2 — Boss Battle**
+
+![Stage 2 Boss](screenshots/stage2_boss.png)
