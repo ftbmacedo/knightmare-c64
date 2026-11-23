@@ -14,7 +14,7 @@ O desenvolvimento começou com uma adaptação para o Commodore 64 realizada com
 
 Posteriormente, o projeto passou por um longo processo de desenvolvimento e refinamento com a ajuda do ChatGPT, da OpenAI. Utilizando a ROM original do MSX e seu disassembly Z80 como principais referências, foram realizadas inúmeras correções, reimplementações, ajustes gráficos, adaptações de músicas e efeitos sonoros, além de testes e comparações com o jogo original. O objetivo sempre foi alcançar a maior fidelidade possível, respeitando as características e limitações do hardware do Commodore 64.
 
-O projeto chegou agora à versão 0.2.0 de Knightmare para o Commodore 64 NTSC. As duas primeiras fases estão completas e jogáveis, enquanto as fases 3 a 8 permanecem em desenvolvimento.
+O projeto chegou agora à versão 0.3.0 de Knightmare para o Commodore 64 NTSC. As fases 1, 2 e 3 estão totalmente concluídas e jogáveis, enquanto as fases 4 a 8 permanecem em desenvolvimento.
 
 O projeto continua em evolução. Minha intenção é implementar gradualmente as fases restantes até que seja possível jogar Knightmare do início ao fim no Commodore 64, preservando ao máximo a experiência do jogo original.
 
@@ -74,3 +74,15 @@ Recriação em MMBasic para Colour Maximite 2:
 **Fase 2 — Chefe**
 
 ![Fase 2 - Chefe](screenshots/stage2_boss.png)
+
+### Fase 3 — Jogabilidade
+![Fase 3 — Jogabilidade](screenshots/stage3_gameplay.png)
+
+### Fase 3 — Inimigos espirais
+![Fase 3 — Inimigos espirais](screenshots/stage3_spirals.png)
+
+### Fase 3 — Rio e pontes
+![Fase 3 — Rio e pontes](screenshots/stage3_river.png)
+
+### Fase 3 — Chefe
+![Fase 3 — Chefe](screenshots/stage3_boss.png)
